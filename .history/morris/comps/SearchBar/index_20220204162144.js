@@ -20,10 +20,6 @@ top:10px;
 width:100%;
 height:50px;
 font-size:32px;
-
-&:input:focus {
-    outline:none;
-}
 `
 // const Buttons = styled.button``
 

@@ -21,9 +21,7 @@ width:100%;
 height:50px;
 font-size:32px;
 
-&:input:focus {
-    outline:none;
-}
+&:input:focus
 `
 // const Buttons = styled.button``
 
